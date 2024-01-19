@@ -101,14 +101,3 @@ hipsec_0.1 directory.
 
 export PYTHONPATH=$PYTHONPATH:/path/to/your/hipsec_1.0
 
-
-
-################################################################################
-# CONTACT
-################################################################################
-
-Questions and comments can be send to:
-
-Bastiaan van den Berg
-b.a.vandenberg@tudelft.nl
-
